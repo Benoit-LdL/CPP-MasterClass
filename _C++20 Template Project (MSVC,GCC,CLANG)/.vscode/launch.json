@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "d:/Repositories/CPP-MasterClass/VsCode-AllConfig",
-      "program": "d:/Repositories/CPP-MasterClass/VsCode-AllConfig/build/Debug/outDebug",
+      "cwd": "d:/Repositories/CPP-MasterClass/_C++20 Template Project (MSVC,GCC,CLANG)",
+      "program": "d:/Repositories/CPP-MasterClass/_C++20 Template Project (MSVC,GCC,CLANG)/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
